@@ -8,8 +8,19 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #fafafa;
-  color: #212121;
+  color: #fafafa;
   line-height: 1.5;
+
+
+
+background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+
+
+
 }
 
 #search-box {
@@ -17,7 +28,7 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
-  transition: width 0.4s ease-in-out;
+  
 }
 
 .country-list {
