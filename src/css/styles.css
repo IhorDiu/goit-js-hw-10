@@ -9,9 +9,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #8b00ff
   line-height: 1.5;
-
-
-
+  color: #fafafa;
 background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg");
 background-size: cover;
 background-repeat: no-repeat;
